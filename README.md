@@ -1,7 +1,6 @@
 # Best Programming Style Guides
 
 
-
 ### C++
 
 ### [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
@@ -111,4 +110,3 @@
 
 
 ##### Made by [Max Shalom](https://github.com/MaxShalom)
-
