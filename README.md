@@ -1,7 +1,5 @@
-# Best Programming Style Guides
 
-
-### C++
+## C++
 
 ### [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
