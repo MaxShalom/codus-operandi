@@ -1,0 +1,8 @@
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
