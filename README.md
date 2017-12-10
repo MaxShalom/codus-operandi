@@ -26,7 +26,13 @@
 
 ### [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide/blob/master/README.md)
 
+### [Front-End Checklist Guide](https://frontendchecklist.io/)
+
 ### [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+### [HTML/CSS Code Guide by @mdo](http://codeguide.co/)
+
+### [W3 Schools HTML Style Guide](https://www.w3schools.com/htmL/html5_syntax.asp)
 
 
 
@@ -44,9 +50,13 @@
 
 ### [Airbnb CSS in JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/css-in-javascript/README.md)
 
+### [Front-End Checklist Guide](https://frontendchecklist.io/)
+
 ### [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ### [Google AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
+
+### [Meteor JavaScript Style Guide](https://guide.meteor.com/code-style.html)
 
 ### [W3 Schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 
@@ -59,6 +69,9 @@
 ### [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide/blob/master/README.md)
 
 
+## PHP
+
+### [MIT PHP Style Guide](http://mitsloan.mit.edu/shared/content/PHP_Code_Style_Guide.php)
 
 
 ## Python
@@ -66,6 +79,8 @@
 ### [Python.org Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+### [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 
 
