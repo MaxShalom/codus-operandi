@@ -1,5 +1,24 @@
 # Best Programming Style Guides
 
+**Table of Contents** 
+
+[C++](#)
+[C# (C-Sharp)](#)
+[Common Lisp](#)
+[HTML/CSS](#)
+[Java](#)
+[JavaScript](#)
+[Objective-C](#)
+[PHP](#)
+[Python](#)
+[R](#)
+[Ruby](#)
+[Shell](#)
+[SQL](#)
+[Swift](#)
+[Vimscript](#)
+
+
 ## C++
 
 ### [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
