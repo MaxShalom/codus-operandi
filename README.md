@@ -2,20 +2,34 @@
 
 **Table of Contents** 
 
-[C++](#)
+[C++](#c++)
+
 [C# (C-Sharp)](#)
+
 [Common Lisp](#)
+
 [HTML/CSS](#)
-[Java](#)
+
+[Java](#Java)
+
 [JavaScript](#)
+
 [Objective-C](#)
+
 [PHP](#)
+
 [Python](#)
+
 [R](#)
+
 [Ruby](#)
+
 [Shell](#)
+
 [SQL](#)
+
 [Swift](#)
+
 [Vimscript](#)
 
 
