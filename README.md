@@ -2,7 +2,7 @@
 
 **Table of Contents** 
 
-[C++](#c++)
+[C++](#c)
 
 [C# (C-Sharp)](#)
 
@@ -10,7 +10,7 @@
 
 [HTML/CSS](#)
 
-[Java](#Java)
+[Java](#java)
 
 [JavaScript](#)
 
