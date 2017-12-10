@@ -48,6 +48,7 @@
 
 ### [Airbnb React Style Guide](https://github.com/airbnb/javascript/blob/master/react/README.md)
 
+
 ### [Airbnb CSS in JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/css-in-javascript/README.md)
 
 ### [Front-End Checklist Guide](https://frontendchecklist.io/)
@@ -75,6 +76,8 @@
 
 
 ## Python
+
+### [Django Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 
 ### [Python.org Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
