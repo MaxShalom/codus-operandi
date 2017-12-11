@@ -1,6 +1,6 @@
 # Best Programming Style Guides
 
-**Table of Contents** 
+###### Table of Contents
 
 [C++](#c)
 
@@ -158,6 +158,9 @@
 
 ### [Google Vimscript Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
+
+
+[Table of Contents](#table-of-contents)
 
 
 #### Made by [Max Shalom](https://github.com/MaxShalom) as a beginner project. If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
