@@ -4,33 +4,33 @@
 
 [C++](#c)
 
-[C# (C-Sharp)](#)
+[C# (C-Sharp)](#c-c-sharp)
 
-[Common Lisp](#)
+[Common Lisp](#common-lisp)
 
-[HTML/CSS](#)
+[HTML/CSS](#htmlcss)
 
 [Java](#java)
 
-[JavaScript](#)
+[JavaScript](#javascript)
 
-[Objective-C](#)
+[Objective-C](#objective-c)
 
-[PHP](#)
+[PHP](#php)
 
-[Python](#)
+[Python](#python)
 
-[R](#)
+[R](#r)
 
-[Ruby](#)
+[Ruby](#ruby)
 
-[Shell](#)
+[Shell](#shell)
 
-[SQL](#)
+[SQL](#sql)
 
-[Swift](#)
+[Swift](#swift)
 
-[Vimscript](#)
+[Vimscript](#vimscript)
 
 
 ## C++
