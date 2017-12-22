@@ -23,6 +23,7 @@
 [R](#r)
 
 [Ruby](#ruby)
+
 [Shell](#shell)
 
 [SQL](#sql)
@@ -31,6 +32,7 @@
 
 [Vimscript](#vimscript)
 
+[Other](#other)
 
 ## C++
 
@@ -157,6 +159,14 @@
 ## Vimscript
 
 ### [Google Vimscript Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+
+
+## Other
+
+[Open Source Guide](https://opensource.guide/)
+
+[GitHub Guides](https://guides.github.com/)
 
 
 
