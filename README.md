@@ -23,7 +23,6 @@
 [R](#r)
 
 [Ruby](#ruby)
-
 [Shell](#shell)
 
 [SQL](#sql)
@@ -81,7 +80,6 @@
 
 ### [Airbnb React Style Guide](https://github.com/airbnb/javascript/blob/master/react/README.md)
 
-
 ### [Airbnb CSS in JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/css-in-javascript/README.md)
 
 ### [Front-End Checklist Guide](https://frontendchecklist.io/)
@@ -91,6 +89,8 @@
 ### [Google AngularJS Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### [Meteor JavaScript Style Guide](https://guide.meteor.com/code-style.html)
+
+### [Standard JavaScript Style Guide](https://standardjs.com/)
 
 ### [W3 Schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 
