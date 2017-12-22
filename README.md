@@ -164,9 +164,9 @@
 
 ## Other
 
-[Open Source Guide](https://opensource.guide/)
+### [Open Source Guide](https://opensource.guide/)
 
-[GitHub Guides](https://guides.github.com/)
+### [GitHub Guides](https://guides.github.com/)
 
 
 
