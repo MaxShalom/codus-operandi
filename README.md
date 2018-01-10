@@ -168,7 +168,9 @@
 
 
 
-#### Made by [Max Shalom](https://github.com/MaxShalom) as a beginner project. If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
+
+
+### Made by [Max Shalom](https://github.com/MaxShalom) as a beginner project. If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
 ##### Hope this helps someone!
 
 
