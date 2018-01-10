@@ -1,5 +1,3 @@
-# Best Programming Style Guides
-
 ###### Table of Contents
 
 [C++](#c)
