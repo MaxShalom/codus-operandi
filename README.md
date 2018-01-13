@@ -1,4 +1,4 @@
-###### Table of Contents - Alphabetical Order
+###### Table of Contents
 
 [C++](#c) / [C# (C-Sharp)](#c-c-sharp) / [Common Lisp](#common-lisp)
 
