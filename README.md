@@ -1,18 +1,18 @@
-###### Table of Contents
+###### Table of Contents - Alphabetical Order
 
-[C++](#c) | [C# (C-Sharp)](#c-c-sharp) | [Common Lisp](#common-lisp)
+[C++](#c) / [C# (C-Sharp)](#c-c-sharp) / [Common Lisp](#common-lisp)
 
 [HTML/CSS](#htmlcss)
 
-[Java](#java) | [JavaScript](#javascript)
+[Java](#java) / [JavaScript](#javascript)
 
 [Objective-C](#objective-c)
 
-[PHP](#php) | [Python](#python)
+[PHP](#php) / [Python](#python)
 
-[R](#r) [Ruby](#ruby)
+[R](#r) / [Ruby](#ruby)
 
-[Shell](#shell) | [SQL](#sql) | [Swift](#swift)
+[Shell](#shell) / [SQL](#sql) / [Swift](#swift)
 
 [Vimscript](#vimscript)
 
