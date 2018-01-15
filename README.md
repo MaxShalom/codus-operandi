@@ -19,6 +19,7 @@
 [Other](#other)
 
 
+
 # Code Style Guides
 
 ## C++
@@ -63,7 +64,7 @@
 
 
 
-### JavaScript
+## JavaScript
 
 ### [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 
@@ -92,9 +93,11 @@
 ### [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide/blob/master/README.md)
 
 
+
 ## PHP
 
 ### [MIT PHP Style Guide](http://mitsloan.mit.edu/shared/content/PHP_Code_Style_Guide.php)
+
 
 
 ## Python
@@ -157,10 +160,11 @@
 
 
 
-
-
 ### Made by [Max Shalom](https://github.com/MaxShalom) as a beginner project. If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
 ##### Hope this helps someone!
 
 
 [Back to the Table of Contents](#table-of-contents)
+
+
+![](https://github.com/MaxShalom/codus-operandi/blob/master/assets/logos/word-logo.png?raw=true)
