@@ -1,4 +1,22 @@
-###### Table of Contents
+# Code Style Guides
+
+**Table of Contents**
+
+[C++](#c) / [C# (C-Sharp)](#c-c-sharp) / [Common Lisp](#common-lisp)
+
+[HTML/CSS](#htmlcss)
+
+[Java](#java) / [JavaScript](#javascript)
+
+[Objective-C](#objective-c)
+
+[PHP](#php) / [Python](#python)
+
+[R](#r) / [Ruby](#ruby)
+
+[Shell](#shell) / [SQL](#sql) / [Swift](#swift)
+
+[Vimscript](#vimscript)
 
 [C++](#c) / [C# (C-Sharp)](#c-c-sharp) / [Common Lisp](#common-lisp)
 
@@ -19,8 +37,6 @@
 [Other](#other)
 
 
-
-# Code Style Guides
 
 ## C++
 
@@ -160,11 +176,12 @@
 
 
 
-### Made by [Max Shalom](https://github.com/MaxShalom) as a beginner project. If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
-##### Hope this helps someone!
+Made by [Max Shalom](https://github.com/MaxShalom). 
+If you would like to recommmend new style guides, please submit an issue with the name, programming language, and website.
 
 
 [Back to the Table of Contents](#table-of-contents)
 
 
 ![](https://github.com/MaxShalom/codus-operandi/blob/master/assets/logos/word-logo.png?raw=true)
+
