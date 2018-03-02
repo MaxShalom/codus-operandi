@@ -1,4 +1,5 @@
-# Code Style Guides
+# Codus Operandi
+_The best programming style guides on the web to help you improve your skills._
 
 **Table of Contents**
 
@@ -36,7 +37,7 @@
 
 [Other](#other)
 
-
+-----
 
 ## C++
 
